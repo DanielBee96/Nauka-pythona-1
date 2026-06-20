@@ -1,6 +1,4 @@
-# Nauka-pythona-1.py
-# Sesja 1 - 20.06.2026
-print("Zaczynam naukę Pythona")
-cel = "Data Analyst"
-print("Mój cel to:", cel)
-print("Dzień 1 zrobiony")
+# Nauka-pythona-1
+
+## Sesja 1 - 20.06.2026
+Start nauki Pythona. Cel: Junior Data Analyst.
