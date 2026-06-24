@@ -10,3 +10,17 @@ def ocen_handlowca(sprzedaz):
 print(ocen_handlowca(60000))
 print(ocen_handlowca(35000))
 print(ocen_handlowca(10000))
+
+def ocen_handlowca_pro(sprzedaz, staz):
+    if sprzedaz >= 50000 and staz >= 2:
+        return "Super Star Vip"
+        
+    elif sprzedaz >= 25000 and staz >= 1:
+        return "Solidny Pracownik"
+        
+    else:
+        return "Trzeba gonić"
+
+print("test 1:", ocen_handlowca_pro(60000, 3))
+print("test 2:", ocen_handlowca_pro(30000, 2))
+print("test 3:", ocen_handlowca_pro(10000, 0))
