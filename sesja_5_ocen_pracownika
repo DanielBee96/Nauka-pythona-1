@@ -6,6 +6,7 @@ def ocen_handlowca(sprzedaz):
     else:
         return "gamoń, do zwolnienia"
 
+
 print(ocen_handlowca(60000))
 print(ocen_handlowca(35000))
 print(ocen_handlowca(10000))
