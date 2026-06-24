@@ -4,4 +4,6 @@
 Start nauki Pythona. Cel: Junior Data Analyst.
 
 ## Sesja 2 24.06.2026
-if, else , elif , TAB i and w toku 
+if, else , elif , TAB i and , or True and False
+Dwa argumenty.
+w toku 
