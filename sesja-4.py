@@ -7,7 +7,6 @@ def ocen_test(wynik):
     else:
         print("Ocena: 3. Trzeba docisnąć.")
 
-# Używamy funkcji 3 razy
 print("Sprawdzam wyniki:")
 ocen_test(95)  # pierwszy uczeń
 ocen_test(82)  # drugi uczeń
