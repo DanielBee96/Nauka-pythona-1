@@ -1,0 +1,11 @@
+def ocen_handlowca(sprzedaz):
+    if sprzedaz >= 50000:
+        return "Super Star"
+    elif sprzedaz >= 20000:
+        return "w normie"
+    else:
+        return "gamoń, do zwolnienia"
+
+print(ocen_handlowca(60000))
+print(ocen_handlowca(35000))
+print(ocen_handlowca(10000))
